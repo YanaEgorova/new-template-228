@@ -189,7 +189,7 @@ body.error-active .error__overlay {
   transition: all .3s ease-in-out;
   background-color: transparent;
   color: var(--main-text-color);
-  border: .3rem solid var(--main-text-color);
+  border: .3rem solid var(--second-brand-color);
 } 
 
 
@@ -209,7 +209,7 @@ body.error-active .error__overlay {
   font-size: 6rem;
 }
 .btn:hover {
-  background-color: var(--main-text-color);
+  background-color: var(--second-brand-color);
   color: var(--sub-text-color);
 } 
 

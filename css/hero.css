@@ -23,7 +23,7 @@
 }
 .hero .btn--mr {
     margin-right: 1rem;
-    background-color: var(--main-text-color);
+    background-color: var(--second-brand-color);
     color: var(--sub-text-color);
 }
 
@@ -88,7 +88,7 @@
     margin-bottom: 3rem;
 }
 .policy .btn {
-    background-color: var(--main-text-color);
+    background-color: var(--second-brand-color);
     color: var(--sub-text-color);
     width: 100%;
 }
@@ -195,7 +195,7 @@
         text-align: left;
         display: flex;
         justify-content: space-between;
-        border: .5rem solid var(--main-text-color);
+        border: .5rem solid var(--second-brand-color);
     }
     .contacts .text--mb,
     .contacts .btn  {
@@ -208,7 +208,7 @@
         display: block;
         width: 45%;
         position: relative;
-        background-color: var(--main-text-color);
+        background-color: var(--second-brand-color);
     }
     .contacts__img-box::before {
         display: block;
@@ -287,14 +287,14 @@
         content: '';
         width: 2.5rem;
         height: 2.5rem;
-        background-color: var(--main-text-color);
+        background-color: var(--second-brand-color);
         transition: all 0.3s ease-in-out;
     }
     .question__img-box {
         display: block;
         width: 40%;
         position: relative;
-        background-color: var(--main-text-color);
+        background-color: var(--second-brand-color);
     }
     .question__img-box::before {
         display: block;
