@@ -323,7 +323,7 @@
         margin: 0;
     }
     .policy__block--top {
-        margin-right: 15rem;
+        /* margin-right: 15rem; */
     }
     .policy__box {
         display: flex;
